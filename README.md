@@ -71,8 +71,9 @@ role-based access and intelligent analysis features.
 
 ## Author
 
-Gitika  
-BCA Student  
+Geetika  
+BCA Student 
+Maharshi Dayanand University(Rohtak,Haryana)
 Academic Smart Airport Management Project
 
 ## Disclaimer
