@@ -8,9 +8,9 @@ public class DBConnection {
     private static final String URL =
             "jdbc:mysql://localhost:3305/SmartAirport";
 
-    private static final String USER = "root";
+    private static final String USER = "YOUR_DATABASE_USERNAME";
 
-    private static final String PASSWORD = "Geetika@123";
+    private static final String PASSWORD = "YOUR_DATABASE_PASSWORD";
 
 
     public static Connection getConnection() {
