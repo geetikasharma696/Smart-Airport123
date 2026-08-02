@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mysql-common-9.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/anaconda3 geetika/pkgs/mysql-common-9.3.0-hc394544_4" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar!/" />
+    </excluded>
+  </library>
+</component>
